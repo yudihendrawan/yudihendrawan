@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yudihendrawan
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning reacjt js
+- 🌱 I’m currently learning react js
 - 📫 How to reach me https://yudihendrawan.vercel.app
 
 <!---
