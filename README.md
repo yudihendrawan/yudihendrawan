@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning Next js
 - 📫 How to reach me https://yudihendrawan.com
-- My mini project
+- Mini project
   - https://toko.ystudio.dev/
   - https://find-people.ystudio.dev/
   - https://kkntuahnegeri.ystudio.dev/
