@@ -4,7 +4,7 @@
 - 📫 How to reach me https://yudihendrawan.com
 - My mini project
   - https://toko.ystudio.dev/
-  - https://find-people.vercel.app/
+  - https://find-people.ystudio.dev/
   - https://kkntuahnegeri.ystudio.dev/
 
 <!---
